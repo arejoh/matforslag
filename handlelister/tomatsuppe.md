@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tomatsuppe
+category: suppe
 ---
 
 Handling ved servering

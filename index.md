@@ -1,21 +1,25 @@
 ---
 layout: default
-title: Matforslag
+title: Oversikt 
 ---
 
 ## Supper
 
-- Chorizo, kikerter og chili [[Oppskrift](http://trinesmatblogg.no/2014/06/10/smakfull-suppe-med-chorizo-kikerter-og-chili/)]
-- Linsesuppe med bacon og rotgrønnsaker [[Oppskrift](http://trinesmatblogg.no/2014/03/12/linsesuppe-med-bacon/)]
-- Tomatsuppe [[handleliste](handlelister/tomatsuppe)]
-
-## Fisk
 {% for p in site.pages  %}
-{% if p.category == "fisk" %}
-- {{ p.title  }} [[handleliste]({{ p.url }})]
+{% if p.category == "suppe" %}
+  - {{ p.title  }} [handleliste]({{ site.baseurl }}{{ p.url }})
 {% endif %}
 {% endfor %}
-- Laks med agurksalat og rømme [[handleliste](handlelister/laks_agurksalat_romme)]
+- Chorizo, kikerter og chili [oppskrift](http://trinesmatblogg.no/2014/06/10/smakfull-suppe-med-chorizo-kikerter-og-chili/)
+- Linsesuppe med bacon og rotgrønnsaker [oppskrift](http://trinesmatblogg.no/2014/03/12/linsesuppe-med-bacon/)
+
+## Fisk
+
+{% for p in site.pages  %}
+{% if p.category == "fisk" %}
+  - {{ p.title  }} [handleliste]({{ site.baseurl }}{{ p.url }})
+{% endif %}
+{% endfor %}
 - Laks i tortilla
 - Lettsaltet torsk med gulrot, bacon og smør
 
@@ -29,7 +33,7 @@ title: Matforslag
 
 ## Pasta o.l.
 
-- Spaghetti bolognaise [[handleliste](handlelister/spaghetti_bolognaise/)]
-- Pasta med bacon og grønnsaker [[handleliste](handlelister/pasta_bacon_grsak)]
+- Spaghetti bolognaise [handleliste](handlelister/spaghetti_bolognaise/)
+- Pasta med bacon og grønnsaker [handleliste](handlelister/pasta_bacon_grsak)
 - Cous-cous med kylling
 - Nudler med kylling, grønnsaker og asiatisk saus

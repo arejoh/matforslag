@@ -1,12 +1,18 @@
 timezone: Europe/Oslo
 encoding: utf-8
 exclude: ["vendor"]
+name: Matforslag
+baseurl: /matforslag
 
 defaults:
   -
     scope:
-      path: .
+      path: ""
       type: "pages"
     values:
       layout: default
       title: "Matforslag"
+
+sass:
+  sass_dir: _sass
+  style: compressed
