@@ -1,0 +1,12 @@
+timezone: Europe/Oslo
+encoding: utf-8
+exclude: ["vendor"]
+
+defaults:
+  -
+    scope:
+      path: .
+      type: "pages"
+    values:
+      layout: default
+      title: "Matforslag"
