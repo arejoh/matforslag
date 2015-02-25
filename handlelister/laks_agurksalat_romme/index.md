@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Laks med agurksalat og rømme
+category: fisk
 ---
 
 Handling ved servering

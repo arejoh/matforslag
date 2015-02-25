@@ -10,7 +10,11 @@ title: Matforslag
 - Tomatsuppe [[handleliste](handlelister/tomatsuppe)]
 
 ## Fisk
-
+{% for p in site.pages  %}
+{% if p.category == "fisk" %}
+- {{ p.title  }} [[handleliste]({{ p.url }})]
+{% endif %}
+{% endfor %}
 - Laks med agurksalat og rømme [[handleliste](handlelister/laks_agurksalat_romme)]
 - Laks i tortilla
 - Lettsaltet torsk med gulrot, bacon og smør
