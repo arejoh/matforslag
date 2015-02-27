@@ -1,0 +1,12 @@
+- name: Suppe
+  category: suppe
+
+- name: Fisk
+  category: fisk
+
+- name: Kjøtt
+  category: kjott
+
+- name: Pasta o.l.
+  category: pasta
+
