@@ -1,0 +1,34 @@
+<nav>
+  <h2>Supper</h2>
+  <ul>
+{% for p in site.pages  %}
+{% if p.category == "suppe" %}
+  <li>{{ p.title  }} <a href="{{ site.baseurl }}{{ p.url }}">handleliste</a></li>
+{% endif %}
+{% endfor %}
+  </ul>
+  <h2>Fisk</h2>
+  <ul>
+    {% for p in site.pages  %}
+      {% if p.category == "fisk" %}
+    <li>{{ p.title  }} <a href="{{ site.baseurl }}{{ p.url }}">handleliste</a></li>
+{% endif %}
+{% endfor %}
+  </ul>
+  <h2>Kjøtt</h2>
+  <ul>
+{% for p in site.pages  %}
+{% if p.category == "kjott" %}
+    <li>{{ p.title  }} <a href="{{ site.baseurl }}{{ p.url }}">handleliste</a></li>
+{% endif %}
+{% endfor %}
+  </ul>
+  <h2>Pasta o.l</h2>
+  <ul>
+{% for p in site.pages  %}
+{% if p.category == "pasta" %}
+    <li>{{ p.title  }} <a href="{{ site.baseurl }}{{ p.url }}">handleliste</a></li>
+{% endif %}
+{% endfor %}
+  </ul>
+</nav>

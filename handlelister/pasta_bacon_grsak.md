@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pasta med bacon og grønnsaker
+category: pasta
 ---
 
 Handling ved servering
