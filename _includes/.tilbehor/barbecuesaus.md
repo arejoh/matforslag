@@ -1,0 +1,15 @@
+- ketchup
+- soyasaus
+- brun farin
+- hvitvinseddik
+- worchestersaus
+- liquid smoke
+- tabasco chipotle
+- sennepspulver
+- spisskummen
+- koriander
+- paprika
+- timian
+- løkpulver
+- hvitløspulver
+

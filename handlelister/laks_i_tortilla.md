@@ -4,12 +4,16 @@ layout: default
 category: fisk
 ---
 
-## Handling ved servering
+## Ingredienser ved servering
 
 - 400-500 g laks
-- tortillalefser
-- tortillachips
-- rømme
-- salat / babyspinat
-- mais
 
+### Fast tilbehør
+
+{% capture tilbehor %}{% include .tilbehor/tortilla.md %}{% endcapture %}
+{{ tilbehor | markdownify }}
+
+### Barbecuesaus
+
+{% capture barbecue %}{% include .tilbehor/barbecuesaus.md %}{% endcapture %}
+{{ barbecue | markdownify }}

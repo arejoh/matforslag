@@ -1,0 +1,11 @@
+{% assign pages=site.pages | sort: 'week'  %}
+<nav class="week-menus">
+  <h1 class="week-menus__title">Ukemenyer</h1>
+  <ul class="week-menus__list">
+    {% for p in pages reversed %}
+      {% if p.type == "menu" %}
+        <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.week }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
