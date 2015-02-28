@@ -4,7 +4,7 @@
   <ul>
   {% for p in site.pages  %}
     {% if p.category == category.category %}
-    <li>{{ p.title  }} <a href="{{ site.baseurl }}{{ p.url }}">handleliste</a></li>
+    <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title  }}</a></li>
   {% endif %}
   {% endfor %}
   </ul>
