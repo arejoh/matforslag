@@ -1,9 +1,11 @@
 {% include head.html %}
     <main role="main">
-      <h1 class="page__title">{{ page.title }}</h1>
-      {% if page.receipe %}<p class="receipe-link"><a href="{{ page.receipe }}">Se oppskrift online</a></p>{% endif %}
-      {{ content }}
-    </main>
+      <article>
+        <h1 class="page__title">{{ page.title }}</h1>
+        {% if page.receipe %}<p class="receipe-link"><a href="{{ page.receipe }}">Se oppskrift online</a></p>{% endif %}
+        {{ content }}
+      </article>
 {% include matforslag.html %}
 {% include ukemenyer.html %}
+    </main>
 {% include foot.html %}

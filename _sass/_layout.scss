@@ -1,0 +1,22 @@
+@media all and (min-width: 40em) {
+  main {
+    display: flex;
+    article,
+    nav {
+      box-sizing: border-box;
+    }
+    article {
+      flex: 2;
+      order: 2;
+    }
+    nav {
+      flex: 1;
+    }
+    .dinners {
+      order: 1;
+    }
+    .week-menus {
+      order: 3;
+    }
+  }
+}
