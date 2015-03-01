@@ -1,12 +1,14 @@
 <nav class="dinners">
 {% for category in site.data.categories  %}
-  <h2 class="dinners__title--{{ category.category }}">{{ category.name }}</h2>
-  <ul class="dinners__list--{{ category-category }}">
-  {% for p in site.pages %}
-    {% if p.category == category.category %}
-    <li class="dinners__listitem"><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title  }}</a></li>
-  {% endif %}
-  {% endfor %}
-  </ul>
+  <section>
+    <h1 class="dinners__title--{{ category.category }}">{{ category.name }}</h1>
+    <ul class="dinners__list--{{ category-category }}">
+    {% for p in site.pages %}
+      {% if p.category == category.category %}
+      <li class="dinners__listitem"><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title  }}</a></li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+  </section>
 {% endfor %}
 </nav>
