@@ -1,0 +1,29 @@
+body {
+  background: url(../img/chalkboard-black.jpg);
+  background-size: cover;
+}
+body,
+a {
+  color: #fff;
+}
+ul {
+  margin: 0 0 1rem;
+  padding: 0 0 0 1.5rem;
+}
+nav {
+  padding: 1.5rem;
+}
+section {
+  margin: 0 0 1rem;
+}
+h1 {
+  margin: 0;
+}
+.week-menus {
+  ul {
+    padding: 0;
+  }
+  li {
+    padding: 0.5rem 0.5rem 0.5rem 0;
+  }
+}

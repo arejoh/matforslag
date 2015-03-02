@@ -4,14 +4,6 @@
 @import "variables";
 @import "typography";
 @import "layout";
+@import "base";
 @import "article";
-
-body {
-  background: url(../img/chalkboard-black.jpg);
-  background-size: cover;
-}
-body,
-a {
-  color: #fff;
-}
 

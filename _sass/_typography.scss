@@ -7,9 +7,9 @@ h1, h2, h3, h4 {
   font-family: $serif-font;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   &.site-header__title {
-    font-size: 5rem;
+    font-size: 3rem;
     text-align: center;
   }
   a {
@@ -30,5 +30,12 @@ h4 {
 [class^="dinners__title"],
 .week-menus__title {
   line-height: 1;
-  margin: 0 0 1rem;
+}
+@media all and (min-width: 30em) {
+  h1 {
+    font-size: 3rem;
+    &.site-header__title {
+      font-size: 5rem;
+    }
+  }
 }
