@@ -1,13 +1,11 @@
 {% include head.html %}
   <body class="dinner">
 {% include banner.html%}
-    <main role="main">
-      <article>
-        <h1 class="page__title">{{ page.title }}</h1>
-        {% if page.receipe %}<p class="receipe-link"><a href="{{ page.receipe }}">Se oppskrift online</a></p>{% endif %}
-        {{ content }}
-      </article>
-{% include matforslag.html %}
-{% include ukemenyer.html %}
-    </main>
+    <nav class="site-nav" role="navigation">
+      <ul>
+        <li><a href="">Ukemenyer</a></li>
+        <li><a href="">Handlelister</a></li>
+      </ul>
+    </nav>
 {% include foot.html %}
+
