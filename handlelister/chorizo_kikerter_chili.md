@@ -2,6 +2,7 @@
 title: Suppe med chorizo, kikerter og chili
 category: suppe
 receipe: http://trinesmatblogg.no/2014/06/10/smakfull-suppe-med-chorizo-kikerter-og-chili/
+layout: handlelister
 ---
 
 ## Handleliste ved servering

@@ -1,6 +1,6 @@
 ---
 title: Lettsaltet torsk med bacon og grønnsaker
-layout: default
+layout: handlelister
 category: fisk
 ---
 

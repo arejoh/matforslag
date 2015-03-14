@@ -1,6 +1,6 @@
 ---
 title: Laks i tortillalefse
-layout: default
+layout: handlelister
 category: fisk
 ---
 

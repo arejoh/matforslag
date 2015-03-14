@@ -2,6 +2,7 @@
 title: Linsesuppe med bacon
 category: suppe
 receipe: http://trinesmatblogg.no/2014/03/12/linsesuppe-med-bacon/
+layout: handlelister
 ---
 
 ## Handleliste ved servering

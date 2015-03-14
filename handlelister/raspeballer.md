@@ -1,6 +1,6 @@
 ---
 title: Raspeballer
-layout: default
+layout: handlelister
 category: kjott
 ---
 

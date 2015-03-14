@@ -1,6 +1,6 @@
 ---
 title: Kjøtt i tortillalefse
-layout: default
+layout: handlelister
 category: kjott
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: handlelister
 title: Tomatsuppe
 category: suppe
 ---

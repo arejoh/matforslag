@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: handlelister
 title: Laks med agurksalat og rømme
 category: fisk
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: handlelister
 title: Pasta med bacon og grønnsaker
 category: pasta
 ---

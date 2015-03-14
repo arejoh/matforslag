@@ -1,6 +1,7 @@
 ---
 title: Spaghetti bolognaise
 category: pasta
+layout: handlelister
 ---
 
 Handling ved tillaging (10+ middager)
