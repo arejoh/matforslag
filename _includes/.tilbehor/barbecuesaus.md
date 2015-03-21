@@ -11,5 +11,5 @@
 - paprika
 - timian
 - løkpulver
-- hvitløspulver
+- hvitløkpulver
 
