@@ -4,8 +4,7 @@ title: Pasta med bacon og grønnsaker
 category: pasta
 ---
 
-Handling ved servering
----
+## Handling ved servering
 
 - Fullkornspasta
 - Et stykke bacon
