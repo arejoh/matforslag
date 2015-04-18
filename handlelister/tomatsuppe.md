@@ -4,8 +4,7 @@ title: Tomatsuppe
 category: suppe
 ---
 
-Handling ved servering
----
+## Handling ved servering
 
 - 2 sjalottløk
 - 2-3 hvitløkfedd
