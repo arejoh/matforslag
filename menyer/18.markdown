@@ -1,0 +1,32 @@
+---
+layout: ukemeny
+title: Meny uke 18
+type: menu
+week: 18
+---
+
+### Lørdag
+
+- Kylling med perlespelt og grønnsaker
+- Biff med grønnsakswok
+
+### Søndag
+
+Svinefilet med bønneepure og grønnsaker
+
+### Mandag
+
+
+
+### Tirsdag
+
+
+### Onsdag
+
+
+### Torsdag
+
+
+### Fredag
+
+
