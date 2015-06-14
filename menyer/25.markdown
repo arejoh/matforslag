@@ -1,0 +1,35 @@
+---
+layout: ukemeny
+title: Meny uke 25
+type: menu
+week: 25
+---
+
+### Lørdag
+
+- Pasta med fiskekaker, gulrot, løk, brokkoli, ost
+- Andebryst med spicy kål og rødvinssaus
+
+### Søndag
+
+- Oksegryte med bønnepure og rotmos
+
+### Mandag
+
+- Grillspyd av kylling med wokede grønnsaker
+
+### Tirsdag
+
+- Laks i tortillalefse/med bønnestuing
+
+### Onsdag
+
+- Thaicurry med torsk
+
+### Torsdag
+
+- Moussaka
+
+### Fredag
+
+- Pizza
