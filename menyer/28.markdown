@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 28
+type: menu
+week: 28
+---
+
+### Lørdag
+
+- Grilling 
+
+### Søndag
+
+- Grilling
+
+### Mandag
+
+- Torsk i folie med grønnsaker og linser
+
+### Tirsdag
+
+- Moussaka
+
+### Onsdag
+
+- Laks i lefse
+
+### Torsdag
+
+- Grillspyd med kylling og grønnsaker
+
+### Fredag
+
+- Pizza
