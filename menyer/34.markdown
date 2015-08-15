@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 34
+type: menu
+week: 34
+---
+
+### Lørdag
+
+- Pizza
+
+### Søndag
+
+- Bolognaise (spaghetti/bønner)
+
+### Mandag
+
+- Pølse med potetmos
+
+### Tirsdag
+
+- Fiskepinner
+
+### Onsdag
+
+- Laks med rømme og agurksalat
+
+### Torsdag
+
+- Svinekoteletter med bakte grønnsaker
+
+### Fredag
+
+- Pizza
