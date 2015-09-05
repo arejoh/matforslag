@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 37
+type: menu
+week: 37
+---
+
+### Lørdag
+
+- 
+
+### Søndag
+
+- Gryte med høyrygg og rotmos
+
+### Mandag
+
+- Torsk med pesto og bønner
+
+### Tirsdag
+
+- BK
+
+### Onsdag
+
+- Bolognaise
+
+### Torsdag
+
+- Laks i lefse
+
+### Fredag
+
+- Pizza
