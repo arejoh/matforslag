@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 38
+type: menu
+week: 38
+---
+
+### Lørdag
+
+- Pannekaker med bacon
+
+### Søndag
+
+- Kyllinglår med beter, mozarella og quinoa
+
+### Mandag
+
+- Fiskegrateng med raspet gulerot
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Fritata med chorizo
+
+### Torsdag
+
+- Koteletter med grønnsaker
+
+### Fredag
+
+- Pizza
