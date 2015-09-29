@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 39
+type: menu
+week: 39
+---
+
+### Lørdag
+
+- Lammekjøtt med grønnsaker
+- Laks i lefse
+
+### Søndag
+
+- Pasta med kylling og pesto
+
+### Mandag
+
+- Pølse og potetmos
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Spaghetti bolognaise
+
+### Torsdag
+
+- Fiskepinner
+
+### Fredag
+
+- Reker og hvitvin
+
