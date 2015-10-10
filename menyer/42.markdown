@@ -1,0 +1,35 @@
+---
+layout: ukemeny
+title: Meny uke 42
+type: menu
+week: 42
+---
+
+### Lørdag
+
+- Laks i lefse/med linser
+
+### Søndag
+
+- Fårikål
+
+### Mandag
+
+- Noe på farten
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Kylling med bønner, grønnsaker, pesto
+
+### Torsdag
+
+- Lettsaltet torsk med bacon og grønnsaker
+
+### Fredag
+
+- Pizza
+
