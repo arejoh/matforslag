@@ -1,0 +1,35 @@
+---
+layout: ukemeny
+title: Meny uke 43
+type: menu
+week: 43
+---
+
+### Lørdag
+
+- Pannekaker
+
+### Søndag
+
+- Gryte med torsk og bønner/linser
+
+### Mandag
+
+- Pasta med bacon, brokkoli og grønnsaker
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Stekt laks med potet, agurksalat og rømme
+
+### Torsdag
+
+- Frittata med grønnsaker, chorizo og torsk
+
+### Fredag
+
+- Pizza
+
