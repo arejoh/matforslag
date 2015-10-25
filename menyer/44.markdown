@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 44
+type: menu
+week: 44
+---
+
+### Lørdag
+
+- Gryterett med kylling og middagsperler
+
+### Søndag
+
+- Gryterett med pulled pork, grønnsaker og grønnsaksmos
+
+### Mandag
+
+- Fiskepinner
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Frittata med torsk, chorizo og grønnsaker
+
+### Torsdag
+
+- Laks i lefse
+
+### Fredag
+
+- Pizza
