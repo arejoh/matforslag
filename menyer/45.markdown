@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 45
+type: menu
+week: 45
+---
+
+### Lørdag
+
+- Alle på besøk
+
+### Søndag
+
+- Gryte med kylling, chorizo, bacon, grønnsaker, linser, bønner
+
+### Mandag
+
+- Fiskekaker med grønnsaker
+
+### Tirsdag
+
+- Svinekoteletter med stekte grønnsaker
+
+### Onsdag
+
+- Laks med potet, rømme, agurksalat
+
+### Torsdag
+
+- Curry med torsk og kikerter
+
+### Fredag
+
+- Pizza
