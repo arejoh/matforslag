@@ -1,0 +1,34 @@
+---
+layout: ukemeny
+title: Meny uke 46
+type: menu
+week: 46
+---
+
+### Lørdag
+
+- Biff med bønnepure og brokkoli
+
+### Søndag
+
+- Gryte med kylling, chorizo, bacon, grønnsaker, linser, bønner
+
+### Mandag
+
+- Pasta med bacon og grønnsaker
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Gryterett med torsk og grønnsaker
+
+### Torsdag
+
+- Laks i lefse
+
+### Fredag
+
+- Pizza
