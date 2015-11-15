@@ -2,6 +2,7 @@
 layout: ukemeny
 title: Meny uke 46
 type: menu
+year: 2015
 week: 46
 ---
 
