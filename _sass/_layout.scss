@@ -1,56 +1,11 @@
 main {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-flow: column nowrap;
-  flex-flow: column nowrap;
-  article,
-  nav {
-    box-sizing: border-box;
-  }
-  article {
-    -webkit-order: 1;
-    order: 1;
-  }
-  nav {
-    padding: 2em 1em;
-  }
-  .dinners {
-    -webkit-order: 3;
-    order: 3;
-  }
+  max-width: 50em;
+  margin: 0 auto;
   .week-menus {
-    -webkit-order: 2;
-    order: 2;
     ul {
       display: -webkit-flex;
       display: flex;
       list-style: none;
-    }
-  }
-}
-@media all and (min-width: 40em) {
-  main {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-flow: row;
-    flex-flow: row;
-    article {
-      -webkit-flex: 2;
-      flex: 2;
-      -webkit-order: 2;
-      order: 2;
-    }
-    nav {
-      -webkit-flex: 1;
-      flex: 1;
-    }
-    .dinners {
-      -webkit-order: 1;
-      order: 1;
-    }
-    .week-menus {
-      -webkit-order: 3;
-      order: 3;
     }
   }
 }
