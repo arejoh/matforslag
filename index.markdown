@@ -1,32 +1,32 @@
 ---
 layout: ukemeny
-title: Meny uke 47
+title: Meny uke 49
 ---
 
 ### Lørdag
 
-- Cous-cous med kylling og grønnsaker
-- Svinefilet med bacon, sopp, linser og grønnsaker
+- Fiskekaker med middagsperler og grønnsaker
+- Bursdagsmiddag til Mette <3
 
 ### Søndag
 
-- Lammestek med bønner og grønnsaker
+- Oksegryte med rotgrønnsaker og bønner.
 
 ### Mandag
 
-- Fritata med torsk, chorizo, brokkoli og grønnsaker
+- Stekt laks med rømme og agurksalat
 
 ### Tirsdag
 
-- Svinekoteletter med stekte grønnsaker
+- Pasta med bacon og erter
 
 ### Onsdag
 
-- Laks i lefse
+- Lettsaltet torsk med bacon og grønnsaker
 
 ### Torsdag
 
-- Lettsaltet torsk med bacon, gulrøtter
+- Kyllinggryte med quinoa
 
 ### Fredag
 
