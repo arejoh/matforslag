@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 49
+type: menu
+year: 2015
+week: 49
+---
+
+### Lørdag
+
+- Fiskekaker med middagsperler og grønnsaker
+- Bursdagsmiddag til Mette <3
+
+### Søndag
+
+- Oksegryte med rotgrønnsaker og bønner.
+
+### Mandag
+
+- Stekt laks med rømme og agurksalat
+
+### Tirsdag
+
+- Pasta med bacon og erter
+
+### Onsdag
+
+- Lettsaltet torsk med bacon og grønnsaker
+
+### Torsdag
+
+- Kyllinggryte med quinoa
+
+### Fredag
+
+- Pizza
