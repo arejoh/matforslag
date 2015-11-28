@@ -1,13 +1,28 @@
-main {
-  max-width: 50em;
-  margin: 0 auto;
-  .week-menus {
-    ul {
-      display: -webkit-flex;
-      display: flex;
-      flex-wrap: -webkit-wrap;
-      flex-wrap: wrap;
-      list-style: none;
+@media all and (min-width: 500px) {
+  header,
+  main {
+    max-width: 42em;
+    margin: 0 auto;
+  }
+  main {
+    display: -webkit-flex;
+    display: flex;
+    article {
+      -webkit-flex: 0 1 70%;
+      flex: 0 1 70%;
     }
+    .week-menus {
+      -webkit-flex: 0 1 30%;
+      flex: 0 1 30%;
+    }
+  }
+}
+.week-menus {
+  ul {
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: -webkit-wrap;
+    flex-wrap: wrap;
+    list-style: none;
   }
 }
