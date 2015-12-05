@@ -18,11 +18,26 @@
   }
 }
 .week-menus {
+  .week-menus__year {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: flex-start;
+    -webkit-align-items: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  h2 {
+    transform: rotate(90deg);
+    -webkit-flex: 1 1 20%;
+    flex: 1 1 20%;
+  }
   ul {
     display: -webkit-flex;
     display: flex;
     flex-wrap: -webkit-wrap;
     flex-wrap: wrap;
     list-style: none;
+    -webkit-flex: 1 1 80%;
+    flex: 1 1 80%;
   }
 }

@@ -1,16 +1,19 @@
 {% assign pages=site.pages | group_by: 'year'  %}
 <nav class="week-menus">
+  <h1 class="week-menus__title">Ukemenyer </h1>
   {% for p in pages reversed %}
     {% if p.name != '' %}
-  <h1 class="week-menus__title">Ukemenyer {{ p.name }}</h1>
-  <ul class="week-menus__list">
-      {% assign items=p.items | sort: 'week' %}
-      {% for i in items reversed %}
-        {% if i.type == "menu" %}
-    <li><a href="{{ site.baseurl }}{{ i.url }}">{{ i.week }}</a></li>
-        {% endif %}
-      {% endfor %}
-  </ul>
+  <section class="week-menus__year">
+    <h2>{{ p.name }}</h2>
+    <ul class="week-menus__list">
+        {% assign items=p.items | sort: 'week' %}
+        {% for i in items reversed %}
+          {% if i.type == "menu" %}
+      <li><a href="{{ site.baseurl }}{{ i.url }}">{{ i.week }}</a></li>
+          {% endif %}
+        {% endfor %}
+    </ul>
+  </section>
     {% endif%}
   {% endfor%}
 </nav>
