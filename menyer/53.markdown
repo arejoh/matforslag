@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 53
+type: menu
+year: 2015
+week: 53
 ---
 
 ### Lørdag
