@@ -5,27 +5,27 @@ title: Meny uke 1
 
 ### Lørdag
 
-- Grillspyd med kylling
+- Laks med lefser, guacamole, bønner
 
 ### Søndag
 
-- Laks med lefser, guacamole, bønner
+- Bolognaise
 
 ### Mandag
 
-- Fiskegrateng
+- Sartor
 
 ### Tirsdag
 
-- Bolognaise
+- Fiskegrateng
 
 ### Onsdag
 
-- Lettsaltet torsk med bacon, gulrøtter og erter
+- Maggevarden 51
 
 ### Torsdag
 
-- Currygryte med laks
+- Lettsaltet torsk med bacon, gulrøtter og erter
 
 ### Fredag
 
