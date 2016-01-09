@@ -5,7 +5,7 @@ title: Meny uke 2
 
 ### Lørdag
 
-- Grillspyd med kylling
+- Svinefilet med lefse/bønner/guacamole
 
 ### Søndag
 
