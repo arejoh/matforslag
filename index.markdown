@@ -1,33 +1,33 @@
 ---
 layout: ukemeny
-title: Meny uke 1
+title: Meny uke 2
 ---
 
 ### Lørdag
 
-- Laks med lefser, guacamole, bønner
+- Grillspyd med kylling
 
 ### Søndag
 
-- Bolognaise
+- Finnbiff
 
 ### Mandag
 
-- Sartor
+- Fiskekaker
 
 ### Tirsdag
 
-- Fiskegrateng
+- Currygryte med laks
 
 ### Onsdag
 
-- Maggevarden 51
+- Bolognaise
 
 ### Torsdag
 
-- Lettsaltet torsk med bacon, gulrøtter og erter
+- Fiskesuppe
 
 ### Fredag
 
-- Pizza
+- Ustaoset
 
