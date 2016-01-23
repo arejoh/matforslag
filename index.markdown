@@ -22,7 +22,7 @@ title: Meny uke 4
 
 ### Onsdag
 
-- Bolgnaise
+- Bolognaise
 - Mette: et eller annet
 
 ### Torsdag
