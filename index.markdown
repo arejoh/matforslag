@@ -6,7 +6,7 @@ title: Meny uke 5
 ### Lørdag
 
 - Laks i lefse
-- Spicy svinestek med barbecuesaus, coleslaw og bønnergryte
+- Spicy svinestek med barbecuesaus, coleslaw og bønnegryte
 
 ### Søndag
 
