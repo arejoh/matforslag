@@ -1,0 +1,38 @@
+---
+layout: ukemeny
+title: Meny uke 6
+type: menu
+year: 2016
+week: 6
+---
+
+### Lørdag
+
+- Kylling i lefse
+
+### Søndag
+
+- Oksegryte med bønner
+
+### Mandag
+
+- Fiskekaker
+- Svinekoteletter med bønnergryte
+
+### Tirsdag
+
+- Sartor
+- Mette: ut med jobben
+
+### Onsdag
+
+- Pølse og potetstappe
+
+### Torsdag
+
+- Bolognaise
+
+### Fredag
+
+- Pizza
+
