@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 10
+type: menu
+year: 2016
+week: 10
+---
+
+### Lørdag
+
+- Byen
+
+### Søndag
+
+- Kylling, bønner/pasta
+
+### Mandag
+
+- Byen/fiskekaker
+
+### Tirsdag
+
+- Fritata
+
+### Onsdag
+
+- Laks med wok og ris
+
+### Torsdag
+
+- Torsk/scampi/chorizo med grønnsaker og spaghetti/bønner
+
+### Fredag
+
+- Pizza
+
