@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 18
+type: menu
+year: 2016
+week: 18
 ---
 
 ### Lørdag
