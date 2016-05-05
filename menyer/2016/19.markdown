@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 19
+type: menu
+year: 2016
+week: 19
+---
+
+### Lørdag
+
+- Konfirmasjon
+
+### Søndag
+
+- Laks i lefse/bønner og guacamole
+
+### Mandag
+
+- Jordskokksuppe med kjøttboller
+
+### Tirsdag
+
+- Sartor
+
+### Onsdag
+
+- Lettsaltet torsk med bacon og grønnsaker
+
+### Torsdag
+
+- [Daal](http://www.godt.no/#!/oppskrift/7475/top-chef-vinnerens-favoritt-indisk-daal) med kylling
+
+### Fredag
+
+- Pizza
+
