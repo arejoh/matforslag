@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 20
+type: meny
+year: 2016
+week: 20
+---
+
+### Lørdag
+
+- Laks i lefse/ med bønner og guacamole
+
+### Søndag
+
+- Kjøtt i lefse/ med bønner og salat
+
+### Mandag
+
+- [Daal](http://www.godt.no/#!/oppskrift/7475/top-chef-vinnerens-favoritt-indisk-daal) med kylling
+
+### Tirsdag
+
+- 17.mai
+
+### Onsdag
+
+- Bolognaise
+
+### Torsdag
+
+- Kidsa og far til Ustaoset.
+
+### Fredag
+
+- Pizza
+
