@@ -1,31 +1,31 @@
 ---
 layout: ukemeny
-title: Meny uke 18
+title: Meny uke 20
 ---
 
 ### Lørdag
 
-- Laks i lefse/bønner og guacamole
+- Laks i lefse/ med bønner og guacamole
 
 ### Søndag
 
-- Biff med jordskokkpure, stekte grønnsaker og rødvinssaus
+- Kjøtt i lefse/ med bønner og salat
 
 ### Mandag
 
-- Fritata med torsk og chorizo
+- [Daal](http://www.godt.no/#!/oppskrift/7475/top-chef-vinnerens-favoritt-indisk-daal) med kylling
 
 ### Tirsdag
 
-- Bolognaise
+- 17.mai
 
 ### Onsdag
 
-- Fiskekaker med brun saus og grønnsaker
+- Bolognaise
 
 ### Torsdag
 
-- [Kylling Cacciatora](http://trinesmatblogg.no/2016/03/22/kylling-cacciatora/)
+- Kidsa og far til Ustaoset.
 
 ### Fredag
 
