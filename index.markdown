@@ -13,7 +13,7 @@ title: Meny uke 20
 
 ### Mandag
 
-- [Daal](http://www.godt.no/#!/oppskrift/7475/top-chef-vinnerens-favoritt-indisk-daal) med kylling
+- Pizza
 
 ### Tirsdag
 
