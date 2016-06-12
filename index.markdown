@@ -1,9 +1,6 @@
 ---
 layout: ukemeny
 title: Meny uke 24
-type: menu
-year: 2016
-week: 24
 ---
 
 ### Lørdag
