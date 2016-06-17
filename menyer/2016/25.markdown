@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 25
+type: menu
+year: 2016
+week: 25
 ---
 
 ### Lørdag
