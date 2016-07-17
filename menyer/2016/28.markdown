@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 28
+type: menu
+year: 2016
+week: 28
+---
+
+### Lørdag
+
+- Laks i lefse 
+
+### Søndag
+
+- Hamburger/pølse med pf
+
+### Mandag
+
+- Pasta/bønner med bacon og chorizo
+
+### Tirsdag
+
+- Fritata med baonn og chorizo
+
+### Onsdag
+
+- Lammeskav i med bønner/i lefse med coleslaw 
+
+### Torsdag
+
+- Thaisuppe med kylling
+
+### Fredag
+
+- Pizza
+
