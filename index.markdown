@@ -17,7 +17,7 @@ title: Meny uke 31
 
 ### Tirsdag
 
-- Thaisuppe med kylling
+- Fritata med torsk, chorizo og grønnsaker
 
 ### Onsdag
 
@@ -25,7 +25,7 @@ title: Meny uke 31
 
 ### Torsdag
 
-- Fritata med torsk, chorizo og grønnsaker
+- Thaisuppe med kylling
 
 ### Fredag
 
