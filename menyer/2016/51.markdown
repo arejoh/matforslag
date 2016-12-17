@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 51
+type: menu
+year: 2016
+week: 51
 ---
 
 ### Lørdag
