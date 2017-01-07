@@ -1,7 +1,7 @@
-{% assign pages=site.pages | group_by: 'year' %}
+{% assign pages=site.pages | sort: 'year' | group_by: 'year' %}
 <nav class="week-menus">
   <h1 class="week-menus__title">Ukemenyer </h1>
-  {% for p in pages %}
+  {% for p in pages reversed %}
     {% if p.name != '' %}
   <section class="week-menus__year">
     <h2>{{ p.name }}</h2>
