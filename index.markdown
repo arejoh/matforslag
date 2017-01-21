@@ -17,7 +17,7 @@ title: Meny uke 4
 
 ### Tirsdag
 
-- Jordskokksuppe med bacon og greskarkjerner
+- Jordskokksuppe med bacon og gresskarkjerner
 
 ### Onsdag
 
