@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 6
+type: menu
+year: 2017
+week: 6
 ---
 
 ### Lørdag

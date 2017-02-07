@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 5
+type: menu
+year: 2017
+week: 5
+---
+
+### Lørdag
+
+- Laks i lefse
+
+### Søndag
+
+- Spaghetti bolognaise / chili con carne
+
+### Mandag
+
+- Pasta med bacon og erter
+
+### Tirsdag
+
+- Gulrotsuppe med bacon
+
+### Onsdag
+
+- Svinekoteletter med stekt grønnsaker
+
+### Torsdag
+
+- Lettsaltet torsk med grønnsaker og bacon
+
+### Fredag
+
+- Pizza
+
