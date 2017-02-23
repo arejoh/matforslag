@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 7
+type: menu
+year: 2017
+week: 7
+---
+
+### Lørdag
+
+- Kristiansand
+
+### Søndag
+
+- Kristiansand
+
+### Mandag
+
+- Pasta med chorizo og brokkoli
+
+### Tirsdag
+
+- Gratinert blomkål og brokkoli
+
+### Onsdag
+
+- Fritata med chorizo og fetaost
+
+### Torsdag
+
+- Pølse og grønnsaker
+
+### Fredag
+
+- Pizza
+
