@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 8
+type: menu
+year: 2017
+week: 8
+---
+
+### Lørdag
+
+- Laks i lefse
+
+### Søndag
+
+- Raspeballer
+
+### Mandag
+
+- Kyliing med bønner og grønnsaker / i lefse
+
+### Tirsdag
+
+- Skrei med ertepure og bacon
+
+### Onsdag
+
+- Kylling- og grønnsaksgryte
+
+### Torsdag
+
+- Fiskekaker og grønnsaker med bønner/pasta
+
+### Fredag
+
+- Pizza
+
