@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 9
+type: menu
+year: 2017
+week: 9
 ---
 
 ### Lørdag
