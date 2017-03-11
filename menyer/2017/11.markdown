@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 11
+type: menu
+year: 2017
+week: 11
 ---
 
 ### Lørdag
