@@ -17,15 +17,15 @@ title: Meny uke 15
 
 ### Tirsdag
 
-- Laks i lefse / Andebryst med rødkål
+- Laks i lefse / med bønner og coleslaw
 
 ### Onsdag
 
-- Gryte med høyrygg, grønnsaker og bønner
+- Andebryst med pastinakkpure og stekt rosenkål
 
 ### Torsdag
 
-- Fritata med torsk, brokkoli og rotgrønnsaker
+- Gryte med høyrygg, grønnsaker og bønner
 
 ### Fredag
 
