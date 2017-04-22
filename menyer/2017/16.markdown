@@ -1,0 +1,32 @@
+---
+layout: ukemeny
+title: Meny uke 16
+type: menu
+year: 2017
+week: 16
+---
+
+### Søndag
+
+- Reise hjem / Egon
+
+### Mandag
+
+- Grillet lammelår med bakte grønnsaker
+
+### Tirsdag
+
+- Spaghetti bolognaise 
+
+### Onsdag
+
+- Lapskaus / bursdag
+
+### Torsdag
+
+- Fiskekaker
+
+### Fredag
+
+- Pizza
+
