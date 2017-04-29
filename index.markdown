@@ -17,7 +17,7 @@ title: Meny uke 18
 
 ### Tirsdag
 
-- Lettsaltet torsk med bacon og grønnsaker
+- Sartor
 
 ### Onsdag
 
@@ -25,7 +25,7 @@ title: Meny uke 18
 
 ### Torsdag
 
-- Tomatsuppe med egg / makaroni
+- Lettsaltet torsk med bacon, ertepure og gulrøtter
 
 ### Fredag
 
