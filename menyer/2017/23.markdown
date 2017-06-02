@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 23
+type: menu
+year: 2017
+week: 23
 ---
 
 ### Lørdag
