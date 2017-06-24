@@ -21,7 +21,7 @@ title: Meny uke 26
 
 ### Onsdag
 
-- Sellerirotsuppe med eple og bacon
+- [Sellerirotsuppe med eple og bacon](http://www.godt.no/#!/oppskrift/7673/sellerirotsuppe)
 
 ### Torsdag
 
