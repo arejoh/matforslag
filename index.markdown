@@ -17,11 +17,11 @@ title: Meny uke 29
 
 ### Onsdag
 
--
+- Sofie's Cafe
 
 ### Torsdag
 
--
+- Pølser med bakte grønnsaker og chipotlemajones
 
 ### Fredag
 
