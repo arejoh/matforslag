@@ -1,9 +1,9 @@
 ---
 layout: ukemeny
-title: Meny uke 30
+title: Meny uke 31
 type: menu
 year: 2017
-week: 30
+week: 31
 ---
 
 ### Lørdag

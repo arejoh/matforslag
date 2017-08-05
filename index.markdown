@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 30
+title: Meny uke 31
 ---
 
 ### Lørdag
