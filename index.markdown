@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 46
+title: Meny uke 47
 ---
 
 ### Lørdag
@@ -13,7 +13,7 @@ title: Meny uke 46
 
 ### Mandag
 
-- Fisk
+- Fiskegryte
 
 ### Tirsdag
 
