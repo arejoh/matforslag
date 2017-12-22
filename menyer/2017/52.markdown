@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 52
+type: menu
+year: 2017
+week: 52
 ---
 
 ### Lørdag
