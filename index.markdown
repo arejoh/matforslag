@@ -5,7 +5,7 @@ title: Meny uke 5
 
 ### Lørdag
 
-- Laks i lefse / med bønner og guacamole
+- Andeconfit med bønnepure og rødkål
 
 ### Søndag
 
