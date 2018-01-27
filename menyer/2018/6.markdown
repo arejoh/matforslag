@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 6
+type: menu
+year: 2018
+week: 6
+---
+
+### Lørdag
+
+- Rundt omkring
+
+### Søndag
+
+- Thaicurry med kylling
+
+### Mandag
+
+- Svinekoteletter med ovnsbakte grønnsaker
+
+### Tirsdag
+
+- Nudler med laks
+
+### Onsdag
+
+- Fiskepinner med grønnsaker
+
+### Torsdag
+
+- Fritata med chorizo, feta og grønnsaker
+
+### Fredag
+
+- Pizza
+
