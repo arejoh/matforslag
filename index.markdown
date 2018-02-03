@@ -1,33 +1,33 @@
 ---
 layout: ukemeny
-title: Meny uke 5
+title: Meny uke 6
 ---
 
 ### Lørdag
 
-- Andeconfit med bønnepure og rødkål
+- Rundt omkring
 
 ### Søndag
 
-- Stekt torsk med blomkålpure og stekt blomkål
+- Thaicurry med kylling
 
 ### Mandag
 
-- Fiskekaker med brun saus og grønnsaker
+- Svinekoteletter med ovnsbakte grønnsaker
 
 ### Tirsdag
 
-- Bolognaise
+- Nudler med laks
 
 ### Onsdag
 
-- Betasuppe
+- Fiskepinner med grønnsaker
 
 ### Torsdag
 
-- Rundt omkring
+- Fritata med chorizo, feta og grønnsaker
 
 ### Fredag
 
-- Rundt omkring
+- Pizza
 
