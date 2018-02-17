@@ -5,7 +5,7 @@ title: Meny uke 8
 
 ### Lørdag
 
-- Lørdagsmiddag
+- Andebryst med rødkål
 
 ### Søndag
 
