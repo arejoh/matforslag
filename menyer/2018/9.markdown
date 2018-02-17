@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 9
+type: menu
+year: 2018
+week: 9
+---
+
+### Lørdag
+
+- Laks i lefse
+
+### Søndag
+
+- Maggevarden?
+
+### Mandag
+
+- Fritata med chorizo, fetaost og grønnsaker
+
+### Tirsdag
+
+- [Ovnsbakt torsk med sprø topping, kapers og sitronsmør](https://www.godt.no/#!/oppskrift/8246/ovnsbakt-torsk-med-sproe-topping-kapers-og-sitronsmoer) pluss stekte grønnsaker
+
+### Onsdag
+
+- Gulrotsuppe med bacon
+
+#### Torsdag
+
+- Svinekoteletter med stekte grønnsaker
+
+### Fredag
+
+- Pizza
+
