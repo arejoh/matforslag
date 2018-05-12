@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 20
+type: menu
+year: 2018
+week: 20
 ---
 
 ### Lørdag
