@@ -17,7 +17,7 @@ title: Meny uke 20
 
 ### Tirsdag
 
-- Nudler med laks
+- Grilling
 
 ### Onsdag
 
