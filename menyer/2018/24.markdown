@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 24
+type: menu
+year: 2018
+week: 24
 ---
 
 ### Lørdag
