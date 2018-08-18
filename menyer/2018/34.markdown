@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 34
+type: menu
+year: 2018
+week: 34
 ---
 
 ### Lørdag
