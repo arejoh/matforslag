@@ -9,11 +9,11 @@ title: Meny uke 43
 
 ### Søndag
 
-- Fårikål
+- Lammespyd med tzatziki og salat
 
 ### Mandag
 
-- Fårikål
+- Fritata med grønnsaker, chorizo og fetaost
 
 ### Tirsdag
 

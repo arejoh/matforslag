@@ -1,0 +1,36 @@
+---
+layout: ukemeny
+title: Meny uke 44
+type: menu
+year: 2018
+week: 44
+---
+
+### Lørdag
+
+- Laks i lefse/med guacamole og bønner
+
+### Søndag
+
+- Kveite med stekte grønnsaker og hollandaise
+
+### Mandag
+
+- Gratinert blomkål og brokkoli med bacon, chorizo og gresskarkjerner
+
+### Tirsdag
+
+- Bolognaise
+
+### Onsdag
+
+- [Ovnsbakt torsk med sprø topping, kapers- og sitronsmør](https://www.godt.no/oppskrift/8246/ovnsbakt-torsk-med-sproe-topping-kapers-og-sitronsmoer)
+
+#### Torsdag
+
+- [Indiske lammeboller med marinert rødløk](https://www.godt.no/oppskrift/7972/indiske-lammeboller-med-marinert-roedloek)
+
+### Fredag
+
+- Pizza
+
