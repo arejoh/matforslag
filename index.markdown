@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 43
+title: Meny uke 44
 ---
 
 ### Lørdag
@@ -9,11 +9,11 @@ title: Meny uke 43
 
 ### Søndag
 
-- Lammespyd med tzatziki og salat
+- Kveite med stekte grønnsaker og hollandaise
 
 ### Mandag
 
-- Fritata med grønnsaker, chorizo og fetaost
+- Gratinert blomkål og brokkoli med bacon, chorizo og gresskarkjerner
 
 ### Tirsdag
 
@@ -21,11 +21,11 @@ title: Meny uke 43
 
 ### Onsdag
 
-- Lettsaltet torsk med ertepure og bacon
+- [Ovnsbakt torsk med sprø topping, kapers- og sitronsmør](https://www.godt.no/oppskrift/8246/ovnsbakt-torsk-med-sproe-topping-kapers-og-sitronsmoer)
 
 #### Torsdag
 
-- Fiskekaker med brun saus, gulrøtter og brokkoli
+- Lammeboller med tsatziki, marinert rødløk og salat
 
 ### Fredag
 
