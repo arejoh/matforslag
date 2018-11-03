@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 45
+type: menu
+year: 2018
+week: 45
 ---
 
 ### Lørdag
@@ -9,7 +12,7 @@ title: Meny uke 45
 
 ### Søndag
 
-- Laks i lefse/med guacamole og bønner
+- Svinekoteletter og bakte grønnsaker
 
 ### Mandag
 
