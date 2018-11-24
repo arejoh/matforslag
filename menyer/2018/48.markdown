@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 48
+type: menu
+year: 2018
+week: 48
 ---
 
 ### Lørdag
