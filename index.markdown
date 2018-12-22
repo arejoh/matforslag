@@ -1,9 +1,6 @@
 ---
 layout: ukemeny
 title: Meny uke 52
-type: menu
-year: 2018
-week: 52
 ---
 
 ### Lørdag
@@ -32,4 +29,4 @@ week: 52
 
 ### Fredag
 
-- Lammeboller m/tomatsaus, tzasiki, søtpoteter og salat
+- Lammeboller m/tomatsaus, tzatziki, søtpoteter og salat
