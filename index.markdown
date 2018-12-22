@@ -25,7 +25,7 @@ title: Meny uke 52
 
 #### Torsdag
 
-- Kylling og bacon med bønner og grønnsaker
+- Pizza
 
 ### Fredag
 
