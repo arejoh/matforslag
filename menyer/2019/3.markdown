@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 3
+type: menu
+year: 2019
+week: 3
 ---
 
 ### Lørdag
