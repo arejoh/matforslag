@@ -17,7 +17,7 @@ title: Meny uke 5
 
 ### Tirsdag
 
-- Bolognaise
+- Quesedilla
 
 ### Onsdag
 
