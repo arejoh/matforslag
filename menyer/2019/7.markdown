@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 7
+type: menu
+year: 2019
+week: 7
 ---
 
 ### Lørdag
