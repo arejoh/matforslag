@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 13
+title: Meny uke 14
 ---
 
 ### Lørdag
@@ -9,11 +9,11 @@ title: Meny uke 13
 
 ### Søndag
 
-- Quesedilla/enchiladas/burritos (et eller annet med lefser)
+- Ravioli med ostefyll og brunet smør
 
 ### Mandag
 
-- Torsk med blomkålpure, brokkoli og chorizosmør
+- Fiskekaker med gulrøtter, brokkoli og brun saus
 
 ### Tirsdag
 
@@ -21,11 +21,11 @@ title: Meny uke 13
 
 ### Onsdag
 
-- Svinekoteletter med ovnsbakte grønnsaker
+- [Ovnsbakt skrei med sprø topping](https://www.godt.no/#!/oppskrift/8246/ovnsbakt-torsk-med-sproe-topping-kapers-og-sitronsmoer) og bakte grønnsaker
 
 #### Torsdag
 
-- Kyllingcurry
+- Svinekoteletter med stekte grønnsaker
 
 ### Fredag
 
