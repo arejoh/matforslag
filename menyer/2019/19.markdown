@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 19
+type: menu
+year: 2019
+week: 19
 ---
 
 ### Lørdag
