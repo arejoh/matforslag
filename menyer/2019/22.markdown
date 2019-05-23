@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 22
+type: menu
+year: 2019
+week: 22
 ---
 
 ### Lørdag
