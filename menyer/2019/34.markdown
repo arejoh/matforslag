@@ -1,4 +1,7 @@
 ---
+layout: ukemeny
+title: Meny uke 34
+type: menu
 year: 2019
 week: 34
 ---
