@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 32
+title: Meny uke 33
 ---
 
 ### Lørdag
