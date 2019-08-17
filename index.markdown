@@ -1,6 +1,6 @@
 ---
-year: 2019
-week: 34
+layout: ukemeny
+title: Meny uke 34
 ---
 
 ### Lørdag
