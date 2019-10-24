@@ -1,9 +1,9 @@
 ---
 layout: ukemeny
-title: Meny uke 42
+title: Meny uke 43
 type: menu
 year: 2019
-week: 42
+week: 43
 ---
 
 ### Lørdag
