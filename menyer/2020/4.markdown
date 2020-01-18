@@ -1,0 +1,35 @@
+---
+layout: ukemeny
+title: Meny uke 3
+type: menu
+year: 2020
+week: 4
+---
+
+### Lørdag
+
+- Rundt om kring
+
+### Søndag
+
+- Gryterett
+
+### Mandag
+
+- Fritata med torsk og grønnsaker
+
+### Tirsdag
+
+- Bolognaise
+
+### Onsdag
+
+- Quesedilla
+
+#### Torsdag
+
+- Kylling med nudler
+
+### Fredag
+
+- Pizza
