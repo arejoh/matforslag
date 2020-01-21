@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 2
+title: Meny uke 3
 type: menu
 year: 2020
 week: 3
