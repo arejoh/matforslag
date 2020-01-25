@@ -1,0 +1,35 @@
+---
+layout: ukemeny
+title: Meny uke 5
+type: menu
+year: 2020
+week: 5
+---
+
+### Lørdag
+
+- Laks i lefse / med bønner og guacamole
+
+### Søndag
+
+- Oksefilet med rødvinssaus, pastinakkpure, stekte grønnsaker og hasselbackpoteter
+
+### Mandag
+
+- Lettsaltet torsk med bacon, ertepure og gulrøtter
+
+### Tirsdag
+
+- Bolognaise
+
+### Onsdag
+
+- Gratinert blomkål og brokkoli med chorizo og gresskjerner
+
+#### Torsdag
+
+- Kyllingcurry
+
+### Fredag
+
+- Pizza
