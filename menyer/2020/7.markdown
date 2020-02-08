@@ -1,0 +1,35 @@
+---
+layout: ukemeny
+title: Meny uke 7
+type: menu
+year: 2020
+week: 7
+---
+
+### Lørdag
+
+- Bursdagsbesøk
+
+### Søndag
+
+- Morsdag
+
+### Mandag
+
+- Pasta med pesto og torsk
+
+### Tirsdag
+
+- Bolognaise
+
+### Onsdag
+
+- Stekt laks med ovnsbakte jordskokker og poteter, og rømme
+
+#### Torsdag
+
+- Curry med torsk
+
+### Fredag
+
+- På tur
