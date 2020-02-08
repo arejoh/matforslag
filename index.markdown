@@ -1,19 +1,19 @@
 ---
 layout: ukemeny
-title: Meny uke 6
+title: Meny uke 7
 ---
 
 ### Lørdag
 
-- Laks i lefse / med bønner og guacamole
+- Bursdagsbesøk
 
 ### Søndag
 
-- Svinestek med bønner og grønnsaker
+- Morsdag
 
 ### Mandag
 
-- [Ovnsbakt torsk med sprø topping](https://www.godt.no/#!/oppskrift/8246/ovnsbakt-torsk-med-sproe-topping-kapers-og-sitronsmoer) og bakte grønnsaker
+- Pasta med pesto og torsk
 
 ### Tirsdag
 
@@ -21,12 +21,12 @@ title: Meny uke 6
 
 ### Onsdag
 
-- Fiskekaker i brun saus med brokkoli og gulrøtter
+- Stekt laks med [ovnsbakte jordskokker og poteter](https://www.godt.no/oppskrift/7503/ovnsbakte-jordskokker-og-mandelpoteter), og rømme
 
 #### Torsdag
 
-- Pasta med reker og chorizo
+- Curry med torsk
 
 ### Fredag
 
-- Pizza
+- På tur
