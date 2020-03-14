@@ -1,31 +1,31 @@
 ---
 layout: ukemeny
-title: Meny uke 11
+title: Meny uke 12
 ---
 
 ### Lørdag
 
-- Kylling i lefse / bønner og guacamole
+- Laks i lefse / bønner og guacamole
 
 ### Søndag
 
-- Raspeballer
+- Lasagne
 
 ### Mandag
 
-- Fiskekaker med brun saus og grønnsaker
+- Fiskekaker med brokkoli, gulrøtter og brun saus
 
 ### Tirsdag
 
-- Bolognaise
+- Nudler med kylling
 
 ### Onsdag
 
-- Curry med torsk
+- Gratinert blomkål og brokkoli med bacon, chorizo og gresskjerner
 
 #### Torsdag
 
-- Svinekoteletter med ovnsbakte grønnsaker
+- Fritata
 
 ### Fredag
 
