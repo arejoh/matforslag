@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 12
+title: Meny uke 13
 ---
 
 ### Lørdag
@@ -9,23 +9,23 @@ title: Meny uke 12
 
 ### Søndag
 
-- Lasagne
+- Finnbiff med potetstappe
 
 ### Mandag
 
-- Fiskekaker med brokkoli, gulrøtter og brun saus
+- Lettsaltet torsk med ertepure, gulrøtter og bacon
 
 ### Tirsdag
 
-- Nudler med kylling
+- Kyllingbryst med ris, brokkoli, erter og fløtesaus
 
 ### Onsdag
 
-- Gratinert blomkål og brokkoli med bacon, chorizo og gresskjerner
+- "Mac & cheese"
 
 #### Torsdag
 
-- Fritata
+- [Sellerirot- og pastinakksuppe med sprø spicy kikerter](https://www.lindastuhaug.no/2019/03/11/sellerirot-og-pastinakksuppe-med-rista-spicy-kikerter/)
 
 ### Fredag
 
