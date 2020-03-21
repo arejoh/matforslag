@@ -5,11 +5,11 @@ title: Meny uke 13
 
 ### Lørdag
 
-- Laks i lefse / bønner og guacamole
+- Andebryst med pastinakkpure og hasselbackpoteter
 
 ### Søndag
 
-- Finnbiff med potetstappe
+- Laks i lefse / bønner og guacamole
 
 ### Mandag
 
