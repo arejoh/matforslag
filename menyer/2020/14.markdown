@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 14
+type: menu
+year: 2020
+week: 14
 ---
 
 ### Lørdag
