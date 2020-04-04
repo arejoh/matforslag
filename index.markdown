@@ -1,32 +1,32 @@
 ---
 layout: ukemeny
-title: Meny uke 14
+title: Meny uke 15
 ---
 
 ### Lørdag
 
-- Biff med brokkoli, bearnaise og pommes frites
+- Andebryst
 
 ### Søndag
 
-- Finnbiff
+- Pasta med hummer
 
 ### Mandag
 
-- Lapskaus
+- Stekt laks med rømme og agurksalat
 
 ### Tirsdag
 
-- Laks i lefse / bønner og guacamole
+- Fiskekaker med brun saus, gulrøtter og erter
 
 ### Onsdag
 
-- Fiskecurry
+- Pizza
 
 #### Torsdag
 
-- Bolognaise
+- Kyllingbryst med fløtesaus
 
 ### Fredag
 
-- Pizza
+- Lam
