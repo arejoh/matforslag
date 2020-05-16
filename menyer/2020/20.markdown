@@ -1,9 +1,9 @@
 ---
 layout: ukemeny
-title: Meny uke 19
+title: Meny uke 20
 type: menu
 year: 2020
-week: 19
+week: 20
 ---
 
 ### Lørdag
