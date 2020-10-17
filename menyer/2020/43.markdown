@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 43
+type: menu
+year: 2020
+week: 43
 ---
 
 ### Lørdag
