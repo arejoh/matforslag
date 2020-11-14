@@ -1,6 +1,9 @@
 ---
 layout: ukemeny
 title: Meny uke 47
+type: menu
+year: 2020
+week: 47
 ---
 
 ### Lørdag
