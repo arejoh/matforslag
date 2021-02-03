@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 4
+title: Meny uke 6
 ---
 
 ### Fredag
@@ -9,24 +9,24 @@ title: Meny uke 4
 
 ### Lørdag
 
-- Biff med bernaise
+- Taco med pulled pork
 
 ### Søndag
 
-- Kylling i bacon med rotmos, stekte grønnsaker og fløtesaus
+- Grillet kylling med bakte grønnsaker og søtpotetpure
 
 ### Mandag
 
-- Fiskesuppe
+- Suppe med svinekjøtt
 
 ### Tirsdag
 
-- Spaghetti bolognaise
+- Laks med rømme og agurksalat
 
 ### Onsdag
 
-- Nudler med svinekjøtt
+- Fiskekaker på brød
 
 #### Torsdag
 
-- Laks i lefse / guacamole og bønner
+- Sartor
