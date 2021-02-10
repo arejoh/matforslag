@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 6
+title: Meny uke 7
 ---
 
 ### Fredag
@@ -9,24 +9,24 @@ title: Meny uke 6
 
 ### Lørdag
 
-- Taco med pulled pork
+- Taco med svinekjøtt, coleslaw og barbecuesaus
 
 ### Søndag
 
-- Grillet kylling med bakte grønnsaker og søtpotetpure
+- Kjøttkaker med brun saus og kålstuing
 
 ### Mandag
 
-- Suppe med svinekjøtt
+- Torsk i bacon med stekte grønnsaker
 
 ### Tirsdag
 
-- Laks med rømme og agurksalat
+- Fiskesuppe med laks og torsk
 
 ### Onsdag
 
-- Fiskekaker på brød
+- Spaghetti bolognaise
 
 #### Torsdag
 
-- Sartor
+- Fritata med chorizo, erter og feta
