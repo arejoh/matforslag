@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 8
+title: Meny uke 9
 ---
 
 ### Fredag
@@ -9,24 +9,24 @@ title: Meny uke 8
 
 ### Lørdag
 
-- Curry med svinekjøtt, ris og nanbrød
+- Taco med kylling
 
 ### Søndag
 
-- [Kyllingpai](https://www.godt.no/annonsorinnhold/meny/oppskrift/8111/kyllingpai-med-ost-og-groennsaker)
+- Kolltveit
 
 ### Mandag
 
-- Laks i lefse / med bønner og guacamole
+- Fiskesuppe
 
 ### Tirsdag
 
-- Skrei med ertepure, gulrøtter og chorizo
+- Ustaoset
 
 ### Onsdag
 
-- Spaghetti bolognaise
+- Ustaoset
 
 #### Torsdag
 
-- Svinekoteletter med bakte grønnsaker
+- Ustaoset
