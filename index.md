@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 11
+title: Meny uke 12
 ---
 
 ### Fredag
@@ -13,15 +13,15 @@ title: Meny uke 11
 
 ### Søndag
 
-- Fiskepai
+- Grillet kalkun med stekte grønnsaker og saus
 
 ### Mandag
 
-- Kylling med havreris
+- Stekt laks med agurksalat og rømme
 
 ### Tirsdag
 
-- Fiskekaker med brun saus og grønnsaker
+- Fiskekaker på brød
 
 ### Onsdag
 
@@ -29,4 +29,4 @@ title: Meny uke 11
 
 #### Torsdag
 
-- Fiskesuppe med torsk
+- Fritata med torsk, chorizo og erter
