@@ -1,6 +1,6 @@
 ---
 layout: ukemeny
-title: Meny uke 12
+title: Meny uke 13
 ---
 
 ### Fredag
@@ -9,24 +9,24 @@ title: Meny uke 12
 
 ### Lørdag
 
-- Taco med pulled pork
+- Grillet svinefilet med bakte grønnsaker
 
 ### Søndag
 
-- Grillet kalkun med stekte grønnsaker og saus
+- Kyllingcurry med nanbrød
 
 ### Mandag
 
-- Stekt laks med agurksalat og rømme
+- Omelett med kyllingcurry og nanbrød
 
 ### Tirsdag
 
-- Fiskekaker på brød
+- Jordskokksuppe med sprøstekt spekeskinke 
 
 ### Onsdag
 
-- Spaghetti bolognaise
+- Torsk surret i bacon med bønnestuing
 
 #### Torsdag
 
-- Fritata med torsk, chorizo og erter
+- Pizzaparty i hagen
