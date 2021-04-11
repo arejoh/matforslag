@@ -7,7 +7,7 @@ window.onload = function() {
   var allWeeks = document.querySelectorAll('[class^=week__]');
   if (thisWeek.length !== 0 && nextWeek.length !== 0) {
     nextWeek[0].style.display = 'none';
-    if (weekDay > 4 && nextWeek.length > 0) {
+    if ((weekDay > 4 || weekDay < 1) && nextWeek.length > 0) {
       thisWeek[0].style.display = 'none';
       nextWeek[0].style.display = 'block';
     }
