@@ -4,6 +4,8 @@ window.onload = function() {
   var weekDay = d.getDay();
   var thisWeek = document.getElementsByClassName('week__' + weekNumber);
   var nextWeek = document.getElementsByClassName('week__' + (weekNumber + 1));
+  var firstWeek = document.getElementsByClassName('first');
+  var lastWeek = document.getElementsByClassName('last');
   var allWeeks = document.querySelectorAll('[class^=week__]');
   if (thisWeek.length !== 0 && nextWeek.length !== 0) {
     nextWeek[0].style.display = 'none';
@@ -13,7 +15,8 @@ window.onload = function() {
     }
   }
   else {
-    //allWeeks.style.display = 'none';
+    firstWeek.style.display = 'none';
+    lastWeek.style.display = 'block';
   }
 }
 

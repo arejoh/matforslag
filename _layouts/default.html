@@ -7,13 +7,13 @@
     {% assign next_week = site.time | date: '%W' | plus: 1 %}
     {% assign pages=site.pages | where: 'year', current_year %}
     {% assign this_week = pages | where: 'week', current_week %}
-      <article class="week__{{ current_week }} this">
+      <article class="week__{{ current_week }} first">
         <h1 class="page__title">{{ this_week[0].title }}</h2>
         <p>{{ this_week[0].content }}</p>
       </article>
     {% assign next_week_menu = pages | where: 'week', next_week %}
     {% if next_week_menu.size > 0 %}
-      <article class="week__{{ next_week }}">
+      <article class="week__{{ next_week }} last">
         <h1 class="page__title">{{ next_week_menu[0].title }}</h2>
         <p>{{ next_week_menu[0].content }}</p>
       </article>
