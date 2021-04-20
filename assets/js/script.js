@@ -1,6 +1,6 @@
 window.onload = function() {
   var d = new Date();
-  var weekNumber = d.getWeek();
+  var weekNumber = d.getWeek(d);
   var weekDay = d.getDay();
   var thisWeek = document.getElementsByClassName('week__' + weekNumber);
   var nextWeek = document.getElementsByClassName('week__' + (weekNumber + 1));
@@ -20,8 +20,7 @@ window.onload = function() {
   }
 }
 
-Date.prototype.getWeek = function() {
-  var date = new Date(this.getTime());
+Date.prototype.getWeek = function(date) {
   date.setHours(0, 0, 0, 0);
   date.setDate(date.getDate() + 3 - (date.getDay() + 6) % 7);
   var week1 = new Date(date.getFullYear(), 0, 4);
