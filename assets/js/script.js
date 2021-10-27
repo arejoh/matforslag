@@ -15,8 +15,8 @@ window.onload = function() {
     }
   }
   else {
-    firstWeek.style.display = 'none';
-    lastWeek.style.display = 'block';
+    firstWeek[0].style.display = 'none';
+    lastWeek[0].style.display = 'block';
   }
 }
 
